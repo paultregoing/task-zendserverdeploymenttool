@@ -1,6 +1,6 @@
 {
-  "name": "phing/task-zendserverdevelopmenttools",
-  "description": "Zend Server Development Tools.",
+  "name": "phing/task-zendserverdeploymenttool",
+  "description": "Zend Server Deployment Tool.",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "license": "LGPL-3.0-only",
